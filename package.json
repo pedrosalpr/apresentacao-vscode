@@ -1,0 +1,12 @@
+{
+    "name": "apresentacao",
+    "version": "1.0.0",
+    "description": "Apresentação do TechTalk",
+    "main": "index.js",
+    "author": "Leandro Pedrosa <pedrosa@fretebras.com.br>",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "jquery": "^3.1.1"
+    }
+}
